@@ -1,1 +1,2 @@
 Autor: Norbert Wyżykowski
+Kurs: Technologie DevOps
